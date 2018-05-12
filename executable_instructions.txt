@@ -1,0 +1,5 @@
+pas sto path apo to fakelo shift kai dexi click open command line 
+C:/pyhton27/python setup.py build kai enter : gia executable arxeio 
+gia na kaneis installer
+C:/python27/python setup.py bdist_msi
+
